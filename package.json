@@ -1,6 +1,6 @@
 {
-  "name": "@uniswap/permit2-sdk",
-  "version": "1.2.0",
+  "name": "@lvsjack/permit2-sdk",
+  "version": "1.2.2",
   "description": "An sdk for interacting with permit2.",
   "publishConfig": {
     "access": "public"
@@ -19,7 +19,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Uniswap/permit2-sdk.git"
+    "url": "https://github.com/jack-lvsjack/permit2-sdk"
   },
   "keywords": [
     "uniswap",

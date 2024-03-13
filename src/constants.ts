@@ -1,10 +1,10 @@
 import { BigNumber } from '@ethersproject/bignumber'
 
-const PERMIT2_CONFIGS:{[key: number]: string} = {
+const PERMIT2_CONFIGS: { [key: number]: string } = {
   // zKatana
   [1261120]: '0x629B419d4601Bfa96E954C1B127fEC5efC3DCC20',
   // astar zkEVM
-  [3776]:'0x000000000022D473030F116dDEE9F6B43aC78BA3'
+  [3776]: '0xB952578f3520EE8Ea45b7914994dcf4702cEe578',
 }
 
 // export const PERMIT2_ADDRESS = '0x000000000022D473030F116dDEE9F6B43aC78BA3'
